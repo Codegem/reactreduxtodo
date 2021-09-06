@@ -1,0 +1,57 @@
+.todoItem{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    background-color: white;
+    margin: 6px 4px;
+    height: 40px;
+    border-radius: 12px;
+}
+
+.isDone{
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 8px;
+}
+
+.icon-done{
+    color: #00e676;
+}
+
+.icon-notDone{
+    color: #ff1744;
+}
+
+.icon-edit, .icon-delete, .icon-menu{
+    color: #9e9e9e;
+}  
+
+.icon-menu:hover{
+    color: black;
+}
+
+.date{
+    margin-right: 50px;
+}
+
+.todoItem p{
+    flex: 1;
+}
+
+.todoItem--done{
+    text-decoration: line-through;
+}
+
+.icon{
+    font-size: 2rem;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.menu-wrapper{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

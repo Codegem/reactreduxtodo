@@ -7,18 +7,19 @@
 }
 
 .app_container{
-  height: 80vh;
-  width: 30vw;
+  min-height: 80vh;
+  width: 60vw;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: rgb(232,234,237);
   border-radius: 12px;
-  padding: 32px 0;
+  padding: 2rem 0;
 }
 
 .app_todoContainer{
     flex: 1;
+    height: 90%;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -27,6 +28,12 @@
 
 @media screen and (max-width: 480px){
   .app_container{
-    width: 85vw;
+    width: 100vw;
+  }
+}
+
+@media screen and (max-width: 1124px){
+  .app_container{
+    width: 70vw;
   }
 }

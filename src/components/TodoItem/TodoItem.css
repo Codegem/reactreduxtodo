@@ -3,15 +3,15 @@
     align-items: center;
     width: 80%;
     background-color: white;
-    margin: 6px 4px;
-    height: 40px;
-    border-radius: 12px;
+    margin: 1rem 5rem;
+    min-height: 2.2rem;
+    border-radius: 0.5rem;
 }
 
 .isDone{
     display: flex;
     align-items: center;
-    margin: 0 0 0 8px;
+    margin-left: 8px;
 }
 
 .icon-done{

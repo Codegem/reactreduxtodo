@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactreduxtodo/static/css/main.27f0f53b.chunk.css",
+    "main.js": "/reactreduxtodo/static/js/main.59ac3c69.chunk.js",
+    "main.js.map": "/reactreduxtodo/static/js/main.59ac3c69.chunk.js.map",
+    "runtime-main.js": "/reactreduxtodo/static/js/runtime-main.2e1cb6c6.js",
+    "runtime-main.js.map": "/reactreduxtodo/static/js/runtime-main.2e1cb6c6.js.map",
+    "static/js/2.e025699d.chunk.js": "/reactreduxtodo/static/js/2.e025699d.chunk.js",
+    "static/js/2.e025699d.chunk.js.map": "/reactreduxtodo/static/js/2.e025699d.chunk.js.map",
+    "index.html": "/reactreduxtodo/index.html",
+    "static/css/main.27f0f53b.chunk.css.map": "/reactreduxtodo/static/css/main.27f0f53b.chunk.css.map",
+    "static/js/2.e025699d.chunk.js.LICENSE.txt": "/reactreduxtodo/static/js/2.e025699d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e1cb6c6.js",
+    "static/js/2.e025699d.chunk.js",
+    "static/css/main.27f0f53b.chunk.css",
+    "static/js/main.59ac3c69.chunk.js"
+  ]
+}

@@ -1,16 +1,16 @@
 .input{
     height: 50px;
-    width: 80%;
+    width: 85%;
     border-radius: 0.8rem;
     background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 1rem;
-    margin: 2vw;
+    padding: 1em;
 }
 
 input{
+    width: 100%;
     background: none;
     border: none;
     margin-left: 12px;
@@ -22,7 +22,6 @@ input:focus{
 }
 
 button{
-    margin: 8px;
     background-color: rgb(214, 213, 213);
     border: none;
     border-radius: 10px;

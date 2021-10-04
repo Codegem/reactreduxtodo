@@ -7,6 +7,7 @@ const PaginationComponent = ({ count, page, handleChange }) => {
       page={page}
       color="primary"
       onChange={handleChange}
+      style={{ margin: "1rem" }}
     />
   );
 };

@@ -14,11 +14,10 @@
   align-items: center;
   background-color: rgb(232,234,237);
   border-radius: 12px;
-  padding: 2rem 0;
+  padding: 2vw 0;
 }
 
 .app_todoContainer{
-    flex: 1;
     height: 90%;
     width: 100%;
     display: flex;
@@ -34,6 +33,7 @@
 
 @media screen and (max-width: 1124px){
   .app_container{
-    width: 70vw;
+    width: 85vw;
+    height: 100%;
   }
 }
